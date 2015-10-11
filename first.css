@@ -1,0 +1,37 @@
+body {
+	background-color: #FFE4B5;
+	background-attachment: fixed;
+}
+img.one {
+	border-radius: 50px;
+	position: absolute;
+	top: 10pt;
+	right: 275pt;
+}
+img.two {
+	border-radius: 50px;
+	position: absolute;
+	top: 10pt;
+	right: 30pt;
+}
+img.three {
+	border-radius: 50px;
+	position: absolute;
+	top: 240pt;
+	right: 275pt;
+}
+img.four {
+	border-radius: 50px;
+	position: absolute;
+	top: 240pt;
+	right: 30pt;
+}
+p {
+	font-family: 'Century Gothic', Futura, Verdana, sans-serif;
+	font-size: 50pt;
+	color: orange;
+	font-weight: bolder;
+	text-indent: 10px;
+	display: none;
+	font-style: italic;
+}
