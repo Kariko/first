@@ -1,0 +1,39 @@
+body {
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+	background-attachment: fixed;
+	font-family: Georgia, Garamond, serif;
+	font-size: 11pt;
+}
+a:link {
+	color: #A4A400;
+}
+h1 {
+	font-family: 'Century Gothic', Futura, Verdana, sans-serif;
+	font-weight: bold;
+	background-color: #F0F0F0;
+	font-size: 22pt;
+	color: #A4A400;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 0.2em;
+}
+h2 {
+	font-family: 'Century Gothic', Futura, Verdana, sans-serif;
+	font-weight: normal;
+	background-color: #F0F0F0;
+	font-size: 18pt;
+	color: #A4A400;
+	text-align: left;
+	text-decoration: underline;
+	letter-spacing: 0.2em;
+}
+p {
+	font-style: italic;
+	background-color: #FFFFC8;
+	text-align: justify;
+	margin-right: 5em;
+	margin-left: 5em;
+}
+li.image {
+	list-style-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif);
+}
